@@ -1,0 +1,15 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.editor.showTabs": "single",
+    "editor.scrollbar.vertical": "auto",
+    "editor.overviewRulerBorder": false,
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "window.titleBarStyle": "custom",
+    "editor.formatOnSave": true,
+    "editor.guides.indentation": false,
+    "indenticator.width": 0.1,
+    "indenticator.color.dark": "rgba(255,255,255,0.1)",
+    "editor.matchBrackets": "never"
+}
