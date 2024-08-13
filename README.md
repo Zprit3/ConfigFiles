@@ -24,5 +24,5 @@ Este repositorio está bajo la Licencia MIT.
 
 ## Contacto
 
-Para preguntas, sugerencias o colaboraciones, puedes contactarme en [tu correo electrónico o tu red social].
+Para preguntas, sugerencias o colaboraciones, puedes contactarme en x.com/Zprit3.
 
